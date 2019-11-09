@@ -1,6 +1,57 @@
 [
     {
         "id": 1, 
-        "img": "/img/bob.png"
+        "img": "/img/bob.png", 
+        "clicked": false
+    },
+
+    {
+        "id": 2, 
+        "img": "/img/frond.jpg", 
+        "clicked": false
+    },
+
+    {
+        "id": 3, 
+        "img": "/img/gene.jpg",
+        "clicked": false
+    },
+
+    {
+        "id": 4, 
+        "img": "/img/louise.png",
+        "clicked": false
+    },
+
+    {
+        "id": 5, 
+        "img": "/img/tammy.png",
+        "clicked": false
+    }, 
+
+    {
+        "id": 6, 
+        "img": "/img/teddy.jpg",
+        "clicked": false
+    }, 
+
+    {
+        "id": 7, 
+        "img": "/img/tina.png",
+        "clicked": false
+    }, 
+
+    {
+        "id": 8, 
+        "img": "/img/linda.webp",
+        "clicked": false
+    }, 
+
+    {
+        "id": 9, 
+        "img": "/img/jimmy.png",
+        "clicked": false
     }
+
+
 ]
