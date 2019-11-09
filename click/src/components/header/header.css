@@ -1,0 +1,17 @@
+#nav {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50em; 
+    background-image: url("/img/banner.jpg");
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+
+#nav2{
+    margin-top: 10px;
+    background-color: #E9967A;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 80px;
+    text-align: center;
+    
+}
