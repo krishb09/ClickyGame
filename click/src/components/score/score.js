@@ -8,11 +8,9 @@ const Score = (props) => {
                 <ul>
                     <li>
                         Clicky Game
-            </li>
-                    <li></li>
-                    <li>
-                        Score: {props.children}
-            </li>
+                    </li>
+                    <li>Score: {props.children}
+                    </li>
                 </ul>
             </nav>
         </div>
