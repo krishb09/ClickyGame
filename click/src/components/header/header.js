@@ -10,7 +10,5 @@ return (
     </div>
 )
 }
-
-
 export default Header;
 

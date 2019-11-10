@@ -45,13 +45,11 @@
         "id": 8, 
         "img": "/img/linda.webp",
         "clicked": false
-    }, 
+    },
 
     {
         "id": 9, 
         "img": "/img/jimmy.png",
         "clicked": false
     }
-
-
 ]

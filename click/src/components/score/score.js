@@ -4,17 +4,10 @@ import "../score/score.css"
 const Score = (props) => {
     return (
         <div className="container">
-            <nav id="nav2" className="navbar navbar-expand-lg navbar-light bg-light">
-                <ul>
-                    <li>
-                        Clicky Game
-                    </li>
-                    <li>Score: {props.children}
-                    </li>
-                </ul>
+            <nav id="nav2" className="navbar navbar-expand-lg navbar-light">
+                <span align="margin:auto; display:table"> Score:{props.children} </span>               
             </nav>
         </div>
     )
-
 }
 export default Score;
